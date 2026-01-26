@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing solutions and managing projects at Navima Brands.<br><br>🌱 I’m currently learning AI agents, workflow automations, and monorepo architecture.<br><br>💬 Ask me about web development and AI-powered automation.<br><br>⚡ Fun fact: I like designing people in voxel style.
+🔭 I’m currently developing solutions and managing projects at Navima Brands.<br><br>🌱 I’m currently learning self hosting apps and deployment, workflow automations, and monorepo architecture.<br><br>💬 Ask me about web development and AI-powered automation.<br><br>⚡ Fun fact: I like designing people in voxel style.
 
 
 ## 🌐 Socials:
